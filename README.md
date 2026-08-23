@@ -1,5 +1,4 @@
-# Geo-Proj1
-# CLI Calculator
+# Proj1-CLI Calculator
 
 A simple command-line calculator built in C++ as my first step into building and 
 shipping real projects — part of a personal challenge to stop overthinking and 
